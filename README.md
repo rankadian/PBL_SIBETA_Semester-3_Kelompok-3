@@ -5,11 +5,12 @@
 SCREEN SHOOT HASIL
 
 - heterogenous
-![heterogenous output](/OOP-JOBSHEET10/img/image.png)
+![heterogenous output](/oop_jobsheet11/img/outputhetorogenous.png)
 - object casting
 
 - polymorphic
-
+output pertama modfiy polyMorphic step ke 3
+![heterogenous output](/oop_jobsheet11/img/output1modyPolymorphic.png)
 - Pertanyaan:
 1. Apakan upcasting dapat dilakukan dari suatu class terhadap class lain yang tidak memiliki relasi inheritance?
 - Jawab :
