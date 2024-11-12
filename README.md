@@ -27,9 +27,13 @@ pertanyaan ke 13 output :
 
 pertannyaan ke 14 output :
 ![object casting](/oop_jobsheet11/img/object%20casting%207.png)
+
 - polymorphic
-output pertama modfiy polyMorphic step ke 3
-![heterogenous output](/oop_jobsheet11/img/output1modyPolymorphic.png)
+output pertama modfiy polyMorphic step ke 3:
+![polymorphic output](/oop_jobsheet11/img/output1modyPolymorphic.png)
+
+output terakhir modify polimorphic :
+![polymorphic output](/oop_jobsheet11/img/polymorphicModfiylast.png)
 - Pertanyaan:
 1. Apakan upcasting dapat dilakukan dari suatu class terhadap class lain yang tidak memiliki relasi inheritance?
 - Jawab :
