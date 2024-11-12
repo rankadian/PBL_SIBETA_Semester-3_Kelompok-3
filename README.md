@@ -5,7 +5,7 @@
 SCREEN SHOOT HASIL
 
 - heterogenous
-![alt text](image.p ng)
+![alt text](https://github.com/rankadian/SIBETA_3/tree/main/OOP-JOBSHEET10/SCREENSHOOT?raw=true)
 - object casting
 
 - polymorphic
