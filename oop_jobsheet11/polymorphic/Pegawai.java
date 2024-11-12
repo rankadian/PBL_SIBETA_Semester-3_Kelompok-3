@@ -1,5 +1,3 @@
-package jobsheet10.heterogenous;
-
 public class Pegawai {
     
     
@@ -19,4 +17,8 @@ public class Pegawai {
         System.out.println("Nama: " + nama);
     }
     
+    public void train(Pegawai pegawai){
+        System.out.println("memberikan pelatihan untuk pegawai");
+        pegawai.displayInfo();
+    }
 }

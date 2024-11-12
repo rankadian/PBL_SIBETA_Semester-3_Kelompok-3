@@ -1,4 +1,4 @@
-package jobsheet10.heterogenous;
+package oop_jobsheet11.heterogenousCollection;
 
 public class TenagaKependidikan extends Pegawai {
     public String kategori;
