@@ -7,7 +7,26 @@ SCREEN SHOOT HASIL
 - heterogenous
 ![heterogenous output](/oop_jobsheet11/img/outputhetorogenous.png)
 - object casting
+pertanyaan ke 2 output :
+![object casting](/oop_jobsheet11/img/object%20casting%201.png)
 
+pertanyaan ke 2 dengan adanya step 4 dan 5 modify :
+![object casting](/oop_jobsheet11/img/object%20casting%202.png)
+
+pertanyaan ke 6 runtime eror :
+![object casting](/oop_jobsheet11/img/object%20casting%203.png)
+
+pertanyaan ke 7 output :
+![object casting](/oop_jobsheet11/img/object%20casting%204.png)
+
+pertanyaan ke 10 output :
+![object casting](/oop_jobsheet11/img/object%20casting%205.png)
+
+pertanyaan ke 13 output :
+![object casting](/oop_jobsheet11/img/object%20casting%206.png)
+
+pertannyaan ke 14 output :
+![object casting](/oop_jobsheet11/img/object%20casting%207.png)
 - polymorphic
 output pertama modfiy polyMorphic step ke 3
 ![heterogenous output](/oop_jobsheet11/img/output1modyPolymorphic.png)
