@@ -5,7 +5,6 @@
 SCREEN SHOOT HASIL
 
 - heterogenous
-
 ![heterogenous output](/OOP-JOBSHEET10/img/image.png)
 - object casting
 
