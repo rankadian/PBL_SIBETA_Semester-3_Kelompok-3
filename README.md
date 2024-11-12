@@ -5,7 +5,7 @@
 SCREEN SHOOT HASIL
 
 - heterogenous
-
+![alt text](image.png)
 - object casting
 
 - polymorphic
