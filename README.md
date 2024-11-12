@@ -6,6 +6,7 @@ SCREEN SHOOT HASIL
 
 - heterogenous
 ![alt text](https://github.com/rankadian/SIBETA_3/tree/main/OOP-JOBSHEET10/SCREENSHOOT?raw=true)
+![heterogenous output](SCREENSHOOT/image.png)
 - object casting
 
 - polymorphic
